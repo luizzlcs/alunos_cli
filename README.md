@@ -17,6 +17,8 @@
  - Api rest
 
 ## Packges utilizados
+ - http
+ - json_rest_server
 
 
 
