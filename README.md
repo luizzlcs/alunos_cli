@@ -10,7 +10,7 @@
 </p>
 
 ## Descritivo sintético
- - Criando um servidor
+ - Criando um banckend json
  - Interpretando json
  - Criando as classes com base no json
  - Serializando e desserializando dados;
