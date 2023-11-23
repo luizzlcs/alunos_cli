@@ -2,110 +2,120 @@
     "users": [
         {
             "id": 0,
-            "name": "Rodrigo Rahman",
-            "email": "rodrigorahman@academiadoflutter.com.br",
+            "name": "Thiago Pereira",
+            "email": "thiago.developed@gmail.com.",
             "password": "123"
         },
         {
             "id": 1,
-            "name": "Guilherme",
-            "email": "guilherme@gmail.com",
+            "name": "Luiz Carlos",
+            "email": "luizzlcs@gmail.com",
             "password": "1234"
         }
     ],
     "products": [
         {
             "id": 0,
-            "name": "Academia do flutter"
+            "name": "Windows 95br"
         },
         {
             "id": 1,
-            "name": "Jornada Dart"
+            "name": "Word 97"
         },
         {
             "id": 2,
-            "name": "Jornada GetX"
+            "name": "Excel 97"
         },
         {
             "id": 3,
-            "name": "Jornada Clean Code"
+            "name": "PowerPoint 97"
         },
         {
             "id": 4,
-            "name": "Jornada Arquitetura"
+            "name": "Acces 97"
         }
     ],
     "students": [
         {
             "id": 0,
-            "name": "Rodrigo Rahman",
-            "age": 39,
+            "name": "Thiago Pereira",
+            "age": 30,
             "nameCourses": [
-                "Academia Flutter",
-                "Jornada GetX",
-                "Jornada Clean Code"
+                "Windows 95br",
+                "Word 97",
+                "Excel 97"
             ],
             "courses": [
                 {
                     "id": 1,
-                    "name": "Academia do Flutter",
+                    "name": "Windows 95br",
                     "isStudent": true
                 },
                 {
                     "id": 2,
-                    "name": "Jornada GetX",
+                    "name": "Word 97",
                     "isStudent": true
                 },
                 {
                     "id": 3,
-                    "name": "Jornada Clean Code",
+                    "name": "Excel 97",
                     "isStudent": true
                 },
                 {
                     "id": 4,
-                    "name": "Jornada Arquitetura",
+                    "name": "PowerPoint 97",
+                    "isStudent": true
+                },
+                {
+                    "id": 5,
+                    "name": "Access 97",
                     "isStudent": false
                 }
             ],
             "address": {
                 "street": "Rua X",
                 "number": 200,
-                "zipCode": "0915225222",
+                "zipCode": "59129490",
                 "city": {
                     "id": 1,
-                    "name": "Santo André"
+                    "name": "Natal"
                 },
                 "phone": {
-                    "ddd": 11,
+                    "ddd": 84,
                     "phone": "985755555"
                 }
             }
         },
         {
             "id": 1,
-            "name": "Luana Rahman",
+            "name": "Luiz Carlos",
             "nameCourses": [
-                "Academia Flutter"
+                "Windows 95br"
             ],
             "courses": [
                 {
                     "id": 1,
-                    "name": "Academia do Flutter",
+                    "name": "Windows 95br",
                     "isStudent": true
                 },
                 {
                     "id": 2,
-                    "name": "Jornada GetX",
+                    "name": "Word 97",
                     "isStudent": false
                 },
                 {
                     "id": 3,
-                    "name": "Jornada Clean Code",
+                    "name": "Excel 97",
                     "isStudent": false
                 },
                 {
                     "id": 4,
-                    "name": "Jornada Arquitetura",
+                    "name": "PowerPoint 97",
+                    "isStudent": false
+                },
+                {
+                    "id": 5,
+                    "name": "Access 97",
                     "isStudent": false
                 }
             ],
@@ -115,10 +125,10 @@
                 "zipCode": "0915225226",
                 "city": {
                     "id": 1,
-                    "name": "Santo André"
+                    "name": "Natal"
                 },
                 "phone": {
-                    "ddd": 11,
+                    "ddd": 84,
                     "phone": "985755556"
                 }
             }
@@ -128,39 +138,46 @@
             "name": "Luiz Carlos",
             "age": 39,
             "nameCourses": [
-                "Academia Flutter",
-                "Jornada GetX",
-                "Jornada Clean Code"
+                "Windows 95br",
+                "Word 97",
+                "Excel 97",
+                "PowerPoint 97",
+                "Access 97"
             ],
             "courses": [
                 {
                     "id": 1,
-                    "name": "Academia do Flutter",
+                    "name": "Windows 95br",
                     "isStudent": true
                 },
                 {
                     "id": 2,
-                    "name": "Jornada GetX",
+                    "name": "Word 97",
                     "isStudent": true
                 },
                 {
                     "id": 3,
-                    "name": "Jornada Clean Code",
+                    "name": "Excel 97",
                     "isStudent": true
                 },
                 {
                     "id": 4,
-                    "name": "Jornada Arquitetura",
-                    "isStudent": false
+                    "name": "PowerPoint 97",
+                    "isStudent": true
+                },
+                {
+                    "id": 5,
+                    "name": "Access 97",
+                    "isStudent": true
                 }
             ],
             "address": {
                 "street": "Rua X",
                 "number": 200,
-                "zipCode": "0915225222",
+                "zipCode": "59114113",
                 "city": {
                     "id": 1,
-                    "name": "Santo André"
+                    "name": "Natal"
                 },
                 "phone": {
                     "ddd": 11,
